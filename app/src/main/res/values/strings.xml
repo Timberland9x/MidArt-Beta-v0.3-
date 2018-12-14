@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MidArt</string>
+
+    <string name="title_activity_town">Town</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="shop">SHOP</string>
+    <string name="x">X</string>
+
+    <string-array name="bag">
+       <item>HpPot</item>
+       <item>Big HpPot</item>
+   </string-array>
+
+</resources>
